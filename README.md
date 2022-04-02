@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=mbjaghou)](https://github.com/mohouyizme/1337-readme)
+[![mbjaghou's 42 stats](https://badge.mediaplus.ma/darkblue/mbjaghou)](https://github.com/oakoudad/badge42)
