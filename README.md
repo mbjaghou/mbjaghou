@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=mbjaghou&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mbjaghou&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mbjaghou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=azdin_yt)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
  
 # 42 network badge
 [![mbjaghou's 42 stats](https://badge.mediaplus.ma/darkblue/mbjaghou)](https://github.com/oakoudad/badge42)
