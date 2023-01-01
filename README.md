@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-📚 I am currently studying at 1337 coding school.<br>💻 I am a front-end developer.<br>👀 I find backend development .<br>🙌 I am available for work on any projects.
+📚 I am currently studying at 1337 coding school.<br>💻 I am a front-end developer.<br>👀 I find backend development interesting.<br>🙌 I am available for work on any projects.
 
 
 ## 🌐 Socials:
